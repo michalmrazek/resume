@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.bab0b925.chunk.css",
+    "main.js": "/resume/static/js/main.a3c1c70b.chunk.js",
+    "main.js.map": "/resume/static/js/main.a3c1c70b.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.fbbe8901.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.fbbe8901.js.map",
+    "static/css/2.3b42fcf8.chunk.css": "/resume/static/css/2.3b42fcf8.chunk.css",
+    "static/js/2.9894ab8a.chunk.js": "/resume/static/js/2.9894ab8a.chunk.js",
+    "static/js/2.9894ab8a.chunk.js.map": "/resume/static/js/2.9894ab8a.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/2.3b42fcf8.chunk.css.map": "/resume/static/css/2.3b42fcf8.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/resume/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.9894ab8a.chunk.js.LICENSE.txt": "/resume/static/js/2.9894ab8a.chunk.js.LICENSE.txt",
+    "static/media/apache-spark.14e4fd1f.svg": "/resume/static/media/apache-spark.14e4fd1f.svg",
+    "static/media/aws-logo.cc38dbe9.svg": "/resume/static/media/aws-logo.cc38dbe9.svg",
+    "static/media/cib-apache-airflow.44e0aec7.svg": "/resume/static/media/cib-apache-airflow.44e0aec7.svg",
+    "static/media/d3-logo.f43e322e.svg": "/resume/static/media/d3-logo.f43e322e.svg",
+    "static/media/docker-logo.ee6ee507.svg": "/resume/static/media/docker-logo.ee6ee507.svg",
+    "static/media/all.min.css": "/resume/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/golang-logo.73c6dbd9.svg": "/resume/static/media/golang-logo.73c6dbd9.svg",
+    "static/media/kubernetes-icon.f91022b1.svg": "/resume/static/media/kubernetes-icon.f91022b1.svg",
+    "static/media/postgres-logo.29aef667.svg": "/resume/static/media/postgres-logo.29aef667.svg",
+    "static/media/python-logo.063da199.svg": "/resume/static/media/python-logo.063da199.svg",
+    "static/media/r-logo.2da55f92.svg": "/resume/static/media/r-logo.2da55f92.svg",
+    "static/media/react-logo.6c1d44b8.svg": "/resume/static/media/react-logo.6c1d44b8.svg",
+    "static/media/robot-logo.4ef33688.svg": "/resume/static/media/robot-logo.4ef33688.svg",
+    "static/media/tableau-logo.be3c5104.svg": "/resume/static/media/tableau-logo.be3c5104.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbbe8901.js",
+    "static/css/2.3b42fcf8.chunk.css",
+    "static/js/2.9894ab8a.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.a3c1c70b.chunk.js"
+  ]
+}
