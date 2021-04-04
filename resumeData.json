@@ -78,37 +78,6 @@
         "years": "July 2017 - September 2017",
         "description": "Feature selection for finding weak spots in production line using mutual information and elastic net."
       }
-    ],
-    "skills": [
-      {
-        "name": "Skill #1",
-        "level": "60%"
-      },
-      {
-        "name": "Skill #2",
-        "level": "55%"
-      },
-      {
-        "name": "Skill #3",
-        "level": "50%"
-      },
-      {
-        "name": "Skill #4",
-        "level": "90%"
-      },
-      {
-        "name": "Skill #5",
-        "level": "80%"
-      },
-      {
-        "name": "Skill #6",
-        "level": "50%"
-      },
-      {
-        "name": "Skill #7",
-        "level": "80%"
-      }
     ]
-  },
-  "portfolio": {}
+  }
 }
