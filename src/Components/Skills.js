@@ -39,7 +39,7 @@ class Resume extends Component {
         {
           skillName: 'Kubernetes',
           skillIconSrc: KubernetesLogo,
-          skillDescription: 'I have been using Kuberentes for over a year and have experience with depoying new workloads, services, secrets & configmaps ande debugging.',
+          skillDescription: 'I have been using Kuberentes for over a year and have experience with depoying new workloads, services, secrets & configmaps and debugging.',
         },
         {
           skillName: 'Apache Airflow',
