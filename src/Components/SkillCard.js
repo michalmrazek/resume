@@ -17,9 +17,9 @@ class SkillCard extends Component {
 
             <div className="col s12 m6 l4">
                 <div className="card small">
-                    <div class="card-content">
+                    <div className="card-content">
                         <div className="center fa-7x">
-                            {label ? <span class="new badge skill-label right" data-badge-caption={label}></span> : null}
+                            {label ? <span className="new badge skill-label right" data-badge-caption={label}></span> : null}
                             <img className="svg-logo" src={skillIconSrc} alt="Skill Logo" />
                         </div>
                         <span className="card-title activator">{skillName}
@@ -27,9 +27,9 @@ class SkillCard extends Component {
                         </span>
                         <p className="text-overflow activator">{skillDescription}</p>
                     </div>
-                    <div class="card-reveal">
+                    <div className="card-reveal">
 
-                        <span class="card-title"><img className="svg-logo fa-1x" src={skillIconSrc} alt="Skill Logo" /><i class="right fas fa-times-circle" /></span>
+                        <span className="card-title"><img className="svg-logo fa-1x" src={skillIconSrc} alt="Skill Logo" /><i className="right fas fa-times-circle" /></span>
                         <p>{skillDescription}</p>
                     </div>
                 </div>

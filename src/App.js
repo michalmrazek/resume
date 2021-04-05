@@ -20,8 +20,14 @@ class App extends Component {
       resumeData: {},
     };
 
-    // ReactGA.initialize('UA-110570651-1');
-    // ReactGA.pageview(window.location.pathname);
+    ReactGA.initialize('G-ZF1NJVRHME', {
+      debug: true,
+      titleCase: false,
+      gaOptions: {
+        siteSpeedSampleRate: 100
+      }
+    });
+    ReactGA.pageview(window.location.pathname);
 
   }
 
