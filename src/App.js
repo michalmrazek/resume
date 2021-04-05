@@ -20,9 +20,7 @@ class App extends Component {
       resumeData: {},
     };
 
-    ReactGA.initialize('G-ZF1NJVRHME', {
-      debug: true,
-      titleCase: false,
+    ReactGA.initialize('UA-166000727-2', {
       gaOptions: {
         siteSpeedSampleRate: 100
       }
