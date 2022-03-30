@@ -34,10 +34,10 @@ class App extends Component {
       resumeData: {
         "main": {
           "name": "Michal Mrázek",
-          "occupation": "Data Engineer / Data Scientist",
+          "occupation": "Machine Learning Engineer",
           "description": "",
           "image": "profilepic2.png",
-          "bio": "Hi! I am a Data Scientist / Data Engineer with worldwide experience (United States, Germany and Czech republic) mainly focused on applied statistics, machine learning and currently also data engineering and cloud computing. If you are interested, reach out to me :)",
+          "bio": "Hi! I am a Machine Learning Engineer with worldwide experience (United States, Germany and Czech republic) mainly focused on applied statistics, machine learning and currently also data engineering and cloud computing. If you are interested, reach out to me :)",
           "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
           "email": "michalmrazek9@gmail.com",
           "phone": "+420 739 284 980",
@@ -45,7 +45,7 @@ class App extends Component {
             "city": "Brno"
           },
           "website": "https://www.linkedin.com/in/michal-mrazek/",
-          "resumedownload": "https://michalmrazek-public.s3.eu-central-1.amazonaws.com/CV_Michal_Mrazek.pdf",
+          "resumedownload": "https://github.com/michalmrazek/resume/raw/master/CV_Michal_Mrazek.pdf",
           "social": [
             {
               "name": "linkedin",
@@ -56,6 +56,11 @@ class App extends Component {
               "name": "email",
               "url": "mailto:michalmrazek@gmail.com",
               "className": "fas fa-envelope"
+            },
+            {
+              "name": "medium",
+              "url": "https://medium.com/@michalmrazek",
+              "className": "fab fa-medium"
             },
             {
               "name": "instagram",
@@ -82,22 +87,16 @@ class App extends Component {
           ],
           "work": [
             {
+              "company": "Avast",
+              "title": "Machine Learning Engineer",
+              "years": "July 2021 - present",
+              "description": "Developing a ML pipeline tool based on Google Cloud Platform Vertex-AI. Cloudification of existing ML and data pipelines. Responsible for Apache Airflow instance."
+            },
+            {
               "company": "Kiwi.com",
               "title": "Data Engineer",
-              "years": "February 2020 - Present",
+              "years": "July 2019 - June 2021",
               "description": "Developing custom ETL tool based on Apache Airflow running in Kuberentes on Google Cloud Platform. Data transfers between various data sources (Postgres, BigQuery, GCS, ElasticSearch, web scrapping, etc.)"
-            },
-            {
-              "company": "Deutsche Telekom Services Europe",
-              "title": "Data Scientist",
-              "years": "July 2019 - January 2020",
-              "description": "Responsible for project focused on predicting correct accounts and tax based on received invoices."
-            },
-            {
-              "company": "Tieto",
-              "title": "AI Software Developer Intern",
-              "years": "February 2019 - April 2019",
-              "description": "Development of autonomous driving model (line follower). Implementation of basic deep learning models in Keras and hardware construction."
             },
             {
               "company": "Bosch Center for Artificial Intelligence, Sunnyvale (CA), USA",

@@ -18,6 +18,8 @@ import TableauLogo from './tableau-logo.svg';
 import ReactLogo from './react-logo.svg';
 import D3Logo from './d3-logo.svg';
 import GolangLogo from './golang-logo.svg';
+import GCPLogo from './google_cloud.svg';
+import TerraformLogo from './terraform.svg';
 
 
 
@@ -32,6 +34,11 @@ class Resume extends Component {
           skillDescription: 'I have been using python extensively since 2017 for various projects in fields of data science, machine learning, data engineering & data processing and more.',
         },
         {
+          skillName: 'GCP',
+          skillIconSrc: GCPLogo,
+          skillDescription: 'I have been working with GCP for over two years, starting with GKE and BigQuery, recently more focuse on the new Vertex-AI platform.',
+        },
+        {
           skillName: 'Docker',
           skillIconSrc: DockerLogo,
           skillDescription: 'I dockerized an application for classifing invoices and I use docker pretty much on daily basis including docker-compose.',
@@ -39,12 +46,17 @@ class Resume extends Component {
         {
           skillName: 'Kubernetes',
           skillIconSrc: KubernetesLogo,
-          skillDescription: 'I have been using Kuberentes for over a year and have experience with depoying new workloads, services, secrets & configmaps and debugging.',
+          skillDescription: 'I have been using Kuberentes for over two years and have experience with depoying new workloads, services, secrets & configmaps and debugging.',
         },
         {
           skillName: 'Apache Airflow',
           skillIconSrc: AirflowLogo,
-          skillDescription: 'I am working daily with Airflow, developing new pipelines and operators and maintaing the Airflow instance. Recently I focused on upgrade to Airflow 2.0. ',
+          skillDescription: 'I am working daily with Airflow, developing new pipelines and operators and maintaing the Airflow instance.',
+        },
+        {
+          skillName: 'Terraform',
+          skillIconSrc: TerraformLogo,
+          skillDescription: 'I used Terraform and Terragrunt in multiple projects including setting up a fresh Slurm cluster on GCP from scratch with the whole project design.',
         },
         {
           skillName: 'Apache Spark',
@@ -75,6 +87,7 @@ class Resume extends Component {
           skillName: 'AWS',
           skillIconSrc: AWSLogo,
           skillDescription: 'I am learning AWS in my free time and got enthusiastic about serverless computing. Currently prepairing for the AWS Certified Solutions Architect certification.',
+          label: 'Basics',
         },
         {
           skillName: 'React',
